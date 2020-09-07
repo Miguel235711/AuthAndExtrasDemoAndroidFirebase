@@ -62,8 +62,21 @@
             android:layout_height="wrap_content"
             android:background="@android:color/background_light"
             android:drawableLeft="@drawable/common_google_signin_btn_icon_dark"
+            android:padding="5dp"
             android:text="@string/signin_with_google_text"
             android:textColor="#989797" />
+        <Button
+            android:id="@+id/facebookLoginButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:background="@color/com_facebook_button_send_background_color"
+            android:drawableStart="@drawable/ic_action_name"
+            android:padding="10dp"
+            android:text="@string/signin_with_facebook_text"
+            android:textColor="#FFFFFF" />
 
     </LinearLayout>
 

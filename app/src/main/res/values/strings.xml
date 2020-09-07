@@ -8,5 +8,8 @@
     <string name="cancel_button">Cancel</string>
     <string name="title_edit_text_hint">Title</string>
     <string name="multiline_edit_text_hint">Content</string>
-    <string name="signin_with_google_text">Login with Google</string>
+    <string name="signin_with_google_text">Log in with Google</string>
+    <string name="signin_with_facebook_text">Log in with Facebook</string>
+    <string name="facebook_app_id">595677364447843</string>
+    <string name="fb_login_protocol_scheme">fb595677364447843</string>
 </resources>
